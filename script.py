@@ -26,7 +26,7 @@ IMDb is a Open source project.
 Source: <a https://github.com/ccadmin1/Movie-Bot'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/DhashamoolamDhamu'>DhashamoolamDhamu</a>
+- <a href='https://t.me/Jasim_vahab'>JASIM</a>
 
 """
 
